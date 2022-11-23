@@ -2,16 +2,10 @@
   "name": "react-chart",
   "version": "1.0.0",
   "author": "Nikolay Goncharuk <goncharuk.bro@gmail.com>",
-  "description": "React input component accepting custom mask.",
+  "description": "",
   "keywords": [
     "react",
-    "react component",
-    "input",
-    "field",
-    "mask",
-    "masked",
-    "formatting",
-    "pattern"
+    "react component"
   ],
   "repository": {
     "type": "git",
